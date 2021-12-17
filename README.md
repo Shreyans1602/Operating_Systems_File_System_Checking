@@ -45,7 +45,7 @@ Make sure to look at fs.img, which is a file system image created when you make 
 # xv6 Source code
 The tar file of xv6 source code for this project is xv6.tar.gz. Copy this file to your local working directory for this project and extract the source code tree, and run ‘make’ to create the fs.img.
 
-Starter code (/cs5348-xv6/src/p4Starter.c) is provided.
+Starter code (p4Starter.c) is provided.
 
 # Testing
 Make sure you compile your program as follows: 
